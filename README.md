@@ -14,7 +14,7 @@ After completing a simplified version of this project as part of Module 3 of the
 
 ## Setup
 Download Instructions 
-- Clone the repo - `git@github.com:kncaputo/underrated.git`
+- Clone the repo - `git@github.com:alyssabull/underrated.git`
 - Install NPM packages - `npm install`
 - Start the application - `npm start`
 
@@ -23,7 +23,7 @@ To view the test suite:
 
 ## Links and Deployed Site
 - [Deployed Site]
-- Project Repository: https://github.com/kncaputo/underrated
+- Project Repository: https://github.com/alyssabull/underrated
 
 ## Contributors:
 - Alyssa Bull - GitHub: https://github.com/alyssabull
