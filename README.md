@@ -22,7 +22,7 @@ To view the test suite:
 - Run `npm test` in your terminal
 
 ## Links and Deployed Site
-- [Deployed Site]
+- [Deployed Site](https://underrated-movies.herokuapp.com/)
 - Project Repository: https://github.com/alyssabull/underrated
 
 ## Contributors:
